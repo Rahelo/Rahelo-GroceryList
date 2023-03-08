@@ -38,6 +38,7 @@ public class GroceryMain {
                     System.out.println("Goodbye!");
                     active = false;
                     break;
+                
             }
         }
     }
